@@ -79,6 +79,11 @@ article p {
     font-weight: 500;
 }
 
+#skill li:hover {
+    background-color: #3498db;
+    color: #ffffff;
+}
+
 .projek-list {
     list-style: none;
     margin-top: 16px;
